@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hra_konfig/1.0.0": {
+        "runtime": {
+          "Hra_konfig.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hra_konfig/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

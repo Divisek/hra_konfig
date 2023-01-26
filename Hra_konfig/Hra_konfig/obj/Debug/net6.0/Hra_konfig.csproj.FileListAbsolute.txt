@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\bin\Debug\net6.0\Hra_konfig.exe
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\bin\Debug\net6.0\Hra_konfig.deps.json
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\bin\Debug\net6.0\Hra_konfig.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\bin\Debug\net6.0\Hra_konfig.dll
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\bin\Debug\net6.0\Hra_konfig.pdb
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.dll
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\refint\Hra_konfig.dll
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.pdb
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\Hra_konfig.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\Hra_konfig\Hra_konfig\obj\Debug\net6.0\ref\Hra_konfig.dll
